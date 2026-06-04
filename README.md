@@ -23,8 +23,8 @@ Currently working with:
 
 ```text
 Frontend  → Vue.js · Nuxt.js · TypeScript · Tailwind CSS
-Backend   → NestJS · Node.js · Prisma ORM
-Database  → PostgreSQL
+Backend   → NestJS · Node.js · Prisma ORM → PHP · Laravel · Eloquent ORM
+Database  → PostgreSQL → MySQL
 DevOps    → Docker · Linux · Git
 ```
 
@@ -157,7 +157,7 @@ const developer = {
 
 * Portfolio → https://ngounhengkimlay.site
 * Email → [ngounhengkimlaydev@gmail.com](mailto:ngounhengkimlaydev@gmail.com)
-* GitHub → https://github.com/ngounhengkimlay
+* GitHub → https://github.com/ngounhengkimlaydev
 
 ---
 

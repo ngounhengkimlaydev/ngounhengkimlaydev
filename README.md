@@ -2,7 +2,7 @@
 
 <div align="center">
 
-### Full-Stack Web Developer from Cambodia 🇰🇭
+### Full-Stack Web Developer
 
 Building scalable web applications, modern user experiences, and backend systems that solve real-world problems.
 
